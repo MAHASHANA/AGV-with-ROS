@@ -2,7 +2,7 @@
 Autonomous ground vehicle using ROS. 
 
 This project is made using basic components a ubuntu based laptop, arduiono mege, encoder motors , l298N motor driver RP-LIDAR A1-M8. I recomed uisng ros melodic or kinetic to make it mork more effectively.
-I used bsaic codes of NOX robot and modified Arduino code, URDF file and otehr cnfg files.
+I used bsaic codes of NOX robot and modified Arduino code, URDF file and other cnfg files.
 NOX robot uses a Depth cam but in my case I used a LIDAR . 
 I recomend to check the links given below before starting with ros and auomation.
 
