@@ -1,17 +1,14 @@
 # AGV-with-ROS-
 Autonomous ground vehicle using ROS. 
 
-This project is made using basic components a ubuntu based laptop, arduiono mege, encoder motors , l298N motor driver RP-LIDAR A1-M8. I recomed uisng ros melodic or kinetic to make it mork more effectively.
+This project is made using ubuntu based laptop, arduiono mege, encoder motors , l298N motor driver RP-LIDAR A1-M8. I recomed uisng ros melodic or kinetic to make it work more effectively.
 I used bsaic codes of NOX robot and modified Arduino code, URDF file and other cnfg files.
 NOX robot uses a Depth cam but in my case I used a LIDAR . 
-I recomend to check the links given below before starting with ros and auomation.
+If we can modify few compontes and lidar . we can acheive full length industrial standard automation . I have few suggestions and ideas of where to use this technology.
 
-https://youtu.be/Qrtz0a7HaQ4
+1. IN underground mines surveying .
 
-http://wiki.ros.org/
+2. Industrial automation for forklifts and small container movers.
 
-http://wiki.ros.org/rosserial_arduino/Tutorials
-
-http://wiki.ros.org/Motor%20Controller%20Drivers
-
+3. For military purpose. TO tarck and give point cloud data (2d&3d) using LIDARS as visula maps.
 
