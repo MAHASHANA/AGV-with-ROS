@@ -10,5 +10,5 @@ If we can modify few compontes and lidar . we can acheive full length industrial
 
 2. Industrial automation for forklifts and small container movers.
 
-3. For military purpose. TO tarck and give point cloud data (2d&3d) using LIDARS as visula maps.
+3. For military purpose. TO tarck and give point cloud data (2d&3d) using LIDARS and produce visula maps.
 
