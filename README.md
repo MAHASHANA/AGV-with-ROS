@@ -11,4 +11,24 @@ If we can modify few compontes and lidar . we can acheive full length industrial
 2. Industrial automation for forklifts and small container movers.
 
 3. For military purpose. TO tarck and give point cloud data (2d&3d) using LIDARS and produce visula maps.
+ 
+BLOCK DIAGRAM:
+
+The Arduino mega and RP lidar communicate with ROS using ROS serial communication.
+The SLAM(Simultaneous Localisation And Mapping ) can be achieved in 3 mapping methods:
+1. G-mapping
+2. Hector mapping
+3. Cartography
+In this rover, we will be using SLAM based on G-mapping.
+
+I worked on G-mapping and Hector mapping in 2D lidar and LOAM technique in 3D lidar(livox-mid40).
+
+                                   
+
+
+
+
+                  
+
+
 
