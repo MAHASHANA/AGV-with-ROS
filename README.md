@@ -23,9 +23,7 @@ In this rover, we will be using SLAM based on G-mapping.
 
 I worked on G-mapping and Hector mapping in 2D lidar and LOAM technique in 3D lidar(livox-mid40).We can use these two techniques combined and deploy a fully autonomus robot in underground mines and unkonwn areas. 
 
-MACHINE LEARNING USING TENSORFLOW ,OPENCV AND KERES:
 
-I tried to read all Images at a tiem frome multiple folders (As i thought that is the key point  in givig the training set in such a format) and was not successful and the remaining code is importing tensorfloe and keres libraries and import netwrok layers from them and using those network layers i was able to creat custome neural network (which i trained on few cats and dogs images) and was successful in implimenting that.
 
                                    
 
