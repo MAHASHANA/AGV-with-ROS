@@ -21,7 +21,7 @@ The SLAM(Simultaneous Localisation And Mapping ) can be achieved in 3 mapping me
 3. Cartography
 In this rover, we will be using SLAM based on G-mapping.
 
-I worked on G-mapping and Hector mapping in 2D lidar and LOAM technique in 3D lidar(livox-mid40).We can use these two techniques combined a deploy a fully autonomus robot in underground mines and unkonwn areas . 
+I worked on G-mapping and Hector mapping in 2D lidar and LOAM technique in 3D lidar(livox-mid40).We can use these two techniques combined and deploy a fully autonomus robot in underground mines and unkonwn areas. 
 
                                    
 
