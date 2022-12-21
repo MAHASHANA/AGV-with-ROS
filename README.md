@@ -24,7 +24,8 @@ In this rover, we will be using SLAM based on G-mapping.
 
 I worked on G-mapping and Hector mapping in 2D lidar and LOAM technique in 3D lidar(livox-mid40).We can use these two techniques combined and deploy a fully autonomus robot in underground mines and unkonwn areas. 
 
-
+working video link
+https://drive.google.com/file/d/14jnFdv26PWbpItQci9FehEf6P2OgNGpf/view?usp=share_link
 
                                    
 
